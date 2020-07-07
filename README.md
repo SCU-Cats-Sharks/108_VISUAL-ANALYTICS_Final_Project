@@ -2,8 +2,11 @@
 
 ## About Project
 課程：視覺化解溪
+
 簡介：關於寵物領養的一些分析以及視覺化
+
 Class Name: VISUAL ANALYTICS
+
 Description: Analysis and visualization of pet adoption.
 
 ## About Developer
